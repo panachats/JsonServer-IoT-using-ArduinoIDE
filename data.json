@@ -1,0 +1,156 @@
+{
+  "dht11_data": [
+    {
+      "humidity": 80,
+      "temperature": 22.20000076,
+      "runtime": "lastTime: 0 Count: 1",
+      "id": 1
+    },
+    {
+      "humidity": 79,
+      "temperature": 21.89999962,
+      "runtime": "lastTime: 15219 Count: 2",
+      "id": 2
+    },
+    {
+      "humidity": 80,
+      "temperature": 21.89999962,
+      "runtime": "lastTime: 30290 Count: 3",
+      "id": 3
+    },
+    {
+      "humidity": 79,
+      "temperature": 21.89999962,
+      "runtime": "lastTime: 45360 Count: 4",
+      "id": 4
+    },
+    {
+      "humidity": 80,
+      "temperature": 21.89999962,
+      "runtime": "lastTime: 60445 Count: 5",
+      "id": 5
+    },
+    {
+      "humidity": 80,
+      "temperature": 22,
+      "runtime": "lastTime: 75527 Count: 6",
+      "id": 6
+    },
+    {
+      "humidity": 81,
+      "temperature": 22,
+      "runtime": "lastTime: 90597 Count: 7",
+      "id": 7
+    },
+    {
+      "humidity": 80,
+      "temperature": 22,
+      "runtime": "lastTime: 105672 Count: 8",
+      "id": 8
+    },
+    {
+      "humidity": 80,
+      "temperature": 22,
+      "runtime": "lastTime: 120766 Count: 9",
+      "id": 9
+    },
+    {
+      "humidity": 80,
+      "temperature": 22.10000038,
+      "runtime": 15155,
+      "timestamp": "9-11-2023 23:39:39",
+      "id": 10
+    },
+    {
+      "humidity": 79,
+      "temperature": 21.89999962,
+      "runtime": 30342,
+      "timestamp": "9-11-2023 23:39:54",
+      "id": 11
+    },
+    {
+      "humidity": 80,
+      "temperature": 21.89999962,
+      "runtime": 45413,
+      "timestamp": "9-11-2023 23:40:09",
+      "id": 12
+    },
+    {
+      "humidity": 79,
+      "temperature": 21.89999962,
+      "runtime": 60480,
+      "timestamp": "9-11-2023 23:40:24",
+      "id": 13
+    },
+    {
+      "humidity": 79,
+      "temperature": 21.89999962,
+      "runtime": 76656,
+      "timestamp": "9-11-2023 23:40:40",
+      "id": 14
+    },
+    {
+      "humidity": 79,
+      "temperature": 21.79999924,
+      "runtime": 91787,
+      "timestamp": "9-11-2023 23:40:56",
+      "id": 15
+    },
+    {
+      "humidity": 80,
+      "temperature": 21.70000076,
+      "runtime": 106863,
+      "timestamp": "9-11-2023 23:41:11",
+      "id": 16
+    },
+    {
+      "humidity": 79,
+      "temperature": 21.70000076,
+      "runtime": 121937,
+      "timestamp": "9-11-2023 23:41:26",
+      "id": 17
+    },
+    {
+      "humidity": 79,
+      "temperature": 21.70000076,
+      "runtime": 137005,
+      "timestamp": "9-11-2023 23:41:41",
+      "id": 18
+    },
+    {
+      "humidity": 80,
+      "temperature": 21.60000038,
+      "runtime": 212430,
+      "timestamp": "9-11-2023 23:42:57",
+      "id": 19
+    },
+    {
+      "humidity": 81,
+      "temperature": 21.60000038,
+      "runtime": 15091,
+      "timestamp": "9-11-2023 23:43:45",
+      "id": 20
+    },
+    {
+      "humidity": 81,
+      "temperature": 21.60000038,
+      "runtime": 30191,
+      "timestamp": "9-11-2023 23:44:00",
+      "id": 21
+    },
+    {
+      "humidity": 79,
+      "temperature": 21.70000076,
+      "runtime": 45271,
+      "timestamp": "9-11-2023 23:44:15",
+      "id": 22
+    },
+    {
+      "humidity": 80,
+      "temperature": 21.70000076,
+      "runtime": 60351,
+      "timestamp": "9-11-2023 23:44:30",
+      "id": 23
+    }
+  ]
+}
